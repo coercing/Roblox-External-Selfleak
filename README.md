@@ -1,6 +1,6 @@
-# Coercing — Roblox External Cheat
+# Roblox-External-Selfleak
 
-Coercing is an external, usermode cheat for **Roblox** (Windows x64), written in C++. It attaches to `RobloxPlayerBeta.exe` via direct process memory access using raw syscalls, then renders a transparent DirectX 11 overlay on top of the game window. All interaction with the game happens purely through memory reads and writes — no code is injected into the Roblox process.
+This is an external, usermode cheat for **Roblox** (Windows x64), written in C++. It attaches to `RobloxPlayerBeta.exe` via direct process memory access using raw syscalls, then renders a transparent DirectX 11 overlay on top of the game window. All interaction with the game happens purely through memory reads and writes — no code is injected into the Roblox process.
 
 > [!WARNING]
 > **Read the disclaimer at the bottom of this document before using or distributing this software.**
