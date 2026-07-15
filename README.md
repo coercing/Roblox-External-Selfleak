@@ -4,6 +4,7 @@ This is an external, usermode cheat for **Roblox** (Windows x64), written in C++
 
 > [!WARNING]
 > **Read the disclaimer at the bottom of this document before using or distributing this software.**
+> **I am also aware of the mismatch names consisting of "nomnomcat" and "scare.lol" Dont worry.
 
 ---
 
